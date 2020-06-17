@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\AccountingAssignment\obj\Debug\AccountingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\AccountingAssignment\bin\Debug\AccountingAssignment.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\AccountingAssignment\bin\Debug\AccountingAssignment.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\AccountingAssignment\bin\Debug\AccountingAssignment.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\AccountingAssignment\obj\Debug\AccountingAssignment.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\AccountingAssignment\obj\Debug\AccountingAssignment.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AccountingAssignment\AccountingAssignment\AccountingAssignment\obj\Debug\AccountingAssignment.csprojAssemblyReference.cache
