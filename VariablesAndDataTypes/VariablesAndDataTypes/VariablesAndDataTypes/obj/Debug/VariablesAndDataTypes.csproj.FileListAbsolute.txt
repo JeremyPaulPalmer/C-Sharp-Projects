@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\VariablesAndDataTypes\bin\Debug\VariablesAndDataTypes.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VariablesAndDataTypes\VariablesAndDataTypes\VariablesAndDataTypes\obj\Debug\VariablesAndDataTypes.pdb
