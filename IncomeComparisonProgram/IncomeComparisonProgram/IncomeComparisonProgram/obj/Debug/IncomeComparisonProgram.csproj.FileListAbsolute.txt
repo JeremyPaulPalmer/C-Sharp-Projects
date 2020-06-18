@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IncomeComparisonProgram\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\IncomeComparisonProgram.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IncomeComparisonProgram\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\IncomeComparisonProgram.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IncomeComparisonProgram\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\IncomeComparisonProgram.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IncomeComparisonProgram\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IncomeComparisonProgram\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IncomeComparisonProgram\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IncomeComparisonProgram\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.pdb
