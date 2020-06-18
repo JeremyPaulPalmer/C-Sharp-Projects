@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\BooleanLogic\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\BooleanLogic\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\BooleanLogic\BooleanLogic\BooleanLogic\bin\Debug\BooleanLogic.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\BooleanLogic\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\BooleanLogic\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\BooleanLogic\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\BooleanLogic\BooleanLogic\BooleanLogic\obj\Debug\BooleanLogic.pdb
