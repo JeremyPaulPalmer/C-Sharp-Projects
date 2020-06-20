@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ArraysAndLists\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ArraysAndLists\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ArraysAndLists\ArraysAndLists\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ArraysAndLists\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ArraysAndLists\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ArraysAndLists\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ArraysAndLists\ArraysAndLists\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
