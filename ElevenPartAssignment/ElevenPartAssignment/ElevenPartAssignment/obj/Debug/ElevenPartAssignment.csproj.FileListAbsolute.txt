@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ElevenPartAssignment\ElevenPartAssignment\ElevenPartAssignment\bin\Debug\ElevenPartAssignment.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ElevenPartAssignment\ElevenPartAssignment\ElevenPartAssignment\bin\Debug\ElevenPartAssignment.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ElevenPartAssignment\ElevenPartAssignment\ElevenPartAssignment\bin\Debug\ElevenPartAssignment.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ElevenPartAssignment\ElevenPartAssignment\ElevenPartAssignment\obj\Debug\ElevenPartAssignment.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ElevenPartAssignment\ElevenPartAssignment\ElevenPartAssignment\obj\Debug\ElevenPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ElevenPartAssignment\ElevenPartAssignment\ElevenPartAssignment\obj\Debug\ElevenPartAssignment.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ElevenPartAssignment\ElevenPartAssignment\ElevenPartAssignment\obj\Debug\ElevenPartAssignment.pdb
