@@ -95,11 +95,11 @@ class Program
             if (!animals2.Contains(animal))
             {
                 animals2.Add(animal);
-                Console.WriteLine(animal);
+                Console.WriteLine("This is the first instance of " + animal + " on the list.");
             }
             else if (animals2.Contains(animal))
             {
-                Console.WriteLine(animal + " has already been listed.");
+                Console.WriteLine("This is a duplicate listing for " + animal + ".");
             }
 
         }
