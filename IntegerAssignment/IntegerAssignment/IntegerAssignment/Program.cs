@@ -12,7 +12,11 @@ namespace IntegerAssignment
         static void Main(string[] args)
         {
             Console.WriteLine("Please choose a whole number to perform math operations on:");
-            ThreeMathMethods.Addition();
+            ThreeMathMethods three = new ThreeMathMethods();
+            three.Addition();
+            three.Multiplication();
+            three.Division();
+            Console.ReadLine();
         }
     }
 }
