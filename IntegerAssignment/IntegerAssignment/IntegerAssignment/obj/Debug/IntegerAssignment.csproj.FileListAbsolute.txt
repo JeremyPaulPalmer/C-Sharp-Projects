@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IntegerAssignment\IntegerAssignment\IntegerAssignment\obj\Debug\IntegerAssignment.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IntegerAssignment\IntegerAssignment\IntegerAssignment\obj\Debug\IntegerAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IntegerAssignment\IntegerAssignment\IntegerAssignment\bin\Debug\IntegerAssignment.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IntegerAssignment\IntegerAssignment\IntegerAssignment\bin\Debug\IntegerAssignment.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IntegerAssignment\IntegerAssignment\IntegerAssignment\bin\Debug\IntegerAssignment.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IntegerAssignment\IntegerAssignment\IntegerAssignment\obj\Debug\IntegerAssignment.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\IntegerAssignment\IntegerAssignment\IntegerAssignment\obj\Debug\IntegerAssignment.pdb
