@@ -9,7 +9,6 @@ namespace IntegerAssignment
 {
     public class ThreeMathMethods
     {
-        int userInt = Convert.ToInt32(Console.ReadLine());
         public void Addition(int userInt, out int addInt)
         {
             addInt = userInt + userInt;
