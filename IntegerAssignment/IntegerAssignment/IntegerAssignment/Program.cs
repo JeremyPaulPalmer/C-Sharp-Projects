@@ -11,12 +11,12 @@ namespace IntegerAssignment
     {
         static void Main(string[] args)
         {
+            int outInt;
             Console.WriteLine("Please choose a whole number to perform math operations on:");
+            int userInt = Convert.ToInt32(ReadLine());
             ThreeMathMethods three = new ThreeMathMethods();
-            three.Addition();
-            three.Multiplication();
-            three.Division();
-            Console.ReadLine();
+            three.Addition(userInt);
+            three.Addition(out outInt);
         }
     }
 }

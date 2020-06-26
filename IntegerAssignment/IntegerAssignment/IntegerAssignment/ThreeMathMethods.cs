@@ -9,24 +9,18 @@ namespace IntegerAssignment
 {
     public class ThreeMathMethods
     {
-        public int addInt;
-        public int multInt;
-        public int divInt;
         int userInt = Convert.ToInt32(Console.ReadLine());
-        public void Addition()
+        public void Addition(int userInt, out int addInt)
         {
             addInt = userInt + userInt;
-            Console.WriteLine(userInt + " plus " + userInt + " equals " + addInt);
         }
-        public void Multiplication()
+        public void Multiplication(int userInt, out int multInt)
         {
             multInt = userInt * userInt;
-            Console.WriteLine(userInt + " times " + userInt + " equals " + multInt);
         }
-        public void Division()
+        public void Division(int userInt, out int divInt)
         {
             divInt = userInt / userInt;
-            Console.WriteLine(userInt + " divided by " + userInt + " equals " + divInt);
         }
     }
 }
