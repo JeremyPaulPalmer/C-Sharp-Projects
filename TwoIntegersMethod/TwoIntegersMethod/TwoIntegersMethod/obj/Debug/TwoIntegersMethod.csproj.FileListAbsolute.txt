@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoIntegersMethod\TwoIntegersMethod\TwoIntegersMethod\bin\Debug\TwoIntegersMethod.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoIntegersMethod\TwoIntegersMethod\TwoIntegersMethod\bin\Debug\TwoIntegersMethod.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoIntegersMethod\TwoIntegersMethod\TwoIntegersMethod\bin\Debug\TwoIntegersMethod.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoIntegersMethod\TwoIntegersMethod\TwoIntegersMethod\obj\Debug\TwoIntegersMethod.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoIntegersMethod\TwoIntegersMethod\TwoIntegersMethod\obj\Debug\TwoIntegersMethod.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoIntegersMethod\TwoIntegersMethod\TwoIntegersMethod\obj\Debug\TwoIntegersMethod.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoIntegersMethod\TwoIntegersMethod\TwoIntegersMethod\obj\Debug\TwoIntegersMethod.pdb
