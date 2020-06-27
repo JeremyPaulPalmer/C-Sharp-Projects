@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoParameters\TwoParameters\TwoParameters\bin\Debug\TwoParameters.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoParameters\TwoParameters\TwoParameters\bin\Debug\TwoParameters.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoParameters\TwoParameters\TwoParameters\bin\Debug\TwoParameters.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoParameters\TwoParameters\TwoParameters\obj\Debug\TwoParameters.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoParameters\TwoParameters\TwoParameters\obj\Debug\TwoParameters.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoParameters\TwoParameters\TwoParameters\obj\Debug\TwoParameters.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwoParameters\TwoParameters\TwoParameters\obj\Debug\TwoParameters.pdb
