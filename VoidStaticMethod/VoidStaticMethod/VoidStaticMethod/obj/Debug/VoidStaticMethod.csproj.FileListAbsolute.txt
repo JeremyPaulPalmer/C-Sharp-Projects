@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VoidStaticMethod\VoidStaticMethod\VoidStaticMethod\bin\Debug\VoidStaticMethod.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VoidStaticMethod\VoidStaticMethod\VoidStaticMethod\bin\Debug\VoidStaticMethod.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VoidStaticMethod\VoidStaticMethod\VoidStaticMethod\bin\Debug\VoidStaticMethod.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VoidStaticMethod\VoidStaticMethod\VoidStaticMethod\obj\Debug\VoidStaticMethod.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VoidStaticMethod\VoidStaticMethod\VoidStaticMethod\obj\Debug\VoidStaticMethod.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VoidStaticMethod\VoidStaticMethod\VoidStaticMethod\obj\Debug\VoidStaticMethod.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\VoidStaticMethod\VoidStaticMethod\VoidStaticMethod\obj\Debug\VoidStaticMethod.pdb
