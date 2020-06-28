@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\SampleStudent\SampleStudent\SampleStudent\bin\Debug\SampleStudent.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\SampleStudent\SampleStudent\SampleStudent\bin\Debug\SampleStudent.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\SampleStudent\SampleStudent\SampleStudent\bin\Debug\SampleStudent.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\SampleStudent\SampleStudent\SampleStudent\obj\Debug\SampleStudent.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\SampleStudent\SampleStudent\SampleStudent\obj\Debug\SampleStudent.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\SampleStudent\SampleStudent\SampleStudent\obj\Debug\SampleStudent.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\SampleStudent\SampleStudent\SampleStudent\obj\Debug\SampleStudent.pdb
