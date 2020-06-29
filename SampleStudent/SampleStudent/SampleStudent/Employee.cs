@@ -8,17 +8,12 @@ namespace SampleStudent
 {
     public class Employee : Person
     {
-        private int id;
+        int id;
 
         public int Id
         {
             get { return id; }
             set { id = value; }
-        }
-
-        public override void SayName()
-        {
-            base.SayName();
         }
     }
 }

@@ -8,8 +8,8 @@ namespace SampleStudent
 {
     public class Person
     {
-        private string firstname;
-        private string lastname;
+        public string firstname;
+        public string lastname;
 
         public string FirstName
         {
@@ -23,7 +23,7 @@ namespace SampleStudent
             set { lastname = value; }
         }
 
-        public virtual void SayName()
+        public void SayName()
         {
             Console.WriteLine("Name: " + firstname + " " + lastname);
         }
