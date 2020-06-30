@@ -6,11 +6,16 @@ using System.Threading.Tasks;
 
 namespace AbstractClass
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         public override void SayName()
         {
             Console.WriteLine("Name: " + firstName + " " + lastName);
+        }
+
+        public void Quit()
+        {
+            Console.WriteLine("This is an example of calling a method from an interface.");
         }
     }
 }
