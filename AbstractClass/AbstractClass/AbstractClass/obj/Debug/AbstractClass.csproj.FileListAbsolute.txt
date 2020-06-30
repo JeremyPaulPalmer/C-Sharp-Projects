@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AbstractClass\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AbstractClass\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AbstractClass\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AbstractClass\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AbstractClass\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AbstractClass\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\AbstractClass\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
