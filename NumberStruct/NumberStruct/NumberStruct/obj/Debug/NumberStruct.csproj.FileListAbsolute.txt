@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\NumberStruct\NumberStruct\NumberStruct\bin\Debug\NumberStruct.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\NumberStruct\NumberStruct\NumberStruct\bin\Debug\NumberStruct.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\NumberStruct\NumberStruct\NumberStruct\bin\Debug\NumberStruct.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\NumberStruct\NumberStruct\NumberStruct\obj\Debug\NumberStruct.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\NumberStruct\NumberStruct\NumberStruct\obj\Debug\NumberStruct.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\NumberStruct\NumberStruct\NumberStruct\obj\Debug\NumberStruct.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\NumberStruct\NumberStruct\NumberStruct\obj\Debug\NumberStruct.pdb
