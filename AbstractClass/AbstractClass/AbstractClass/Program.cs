@@ -36,16 +36,20 @@ namespace AbstractClass
                 new Employee { firstName = "Luigi", lastName = "Mario", Id = 09 }
             };
 
-            List<Employee> Joeployees = new List<Employee>();
-            
-            foreach (var employee in employees)
-            {
-                if (employee.firstName == "Joe")
-                {
-                    Joeployees.Add(new Employee { firstName = employee.firstName, lastName = employee.lastName, Id = employee.Id });
-                }
-            }
-            foreach (var item in Joeployees) Console.WriteLine(item.firstName + " " + item.lastName);
+            //List<Employee> Joeployees = new List<Employee>();
+
+            //foreach (var employee in employees)
+            //{
+            //    if (employee.firstName == "Joe")
+            //    {
+            //        Joeployees.Add(new Employee { firstName = employee.firstName, lastName = employee.lastName, Id = employee.Id });
+            //    }
+            //}
+            //foreach (var item in Joeployees) Console.WriteLine(item.firstName + " " + item.lastName);
+
+            var Joeployees = employees.Where(item => item.firstName == "Joe").ToList();
+                        
+            foreach (var item in Joeployees) Console.WriteLine(item.Id + " " + item.firstName + " " + item.lastName);
 
             //Employee<string> listEmployees = new Employee<string>();
 
