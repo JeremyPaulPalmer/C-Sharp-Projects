@@ -9,43 +9,43 @@ namespace AbstractClass
 {
     class Program
     {
-        class EmployeeList
-        {
-            public List<Employee> listEmployees = new List<Employee>();
+        //class EmployeeList
+        //{
+        //    List<Employee> listEmployees = new List<Employee>();
 
-            public bool AddEmployee(string firstname, string lastname, int id)
-            {
-                listEmployees.Add(new Employee { firstName = firstname, lastName = lastname, Id = id });
-                return true;
-            }
-        }
+        //    public bool AddEmployee(string firstname, string lastname, int id)
+        //    {
+        //        listEmployees.Add(new Employee { firstName = firstname, lastName = lastname, Id = id });
+        //        return true;
+        //    }
+        //}
 
         static void Main(string[] args)
         {
-            var employeeList = new EmployeeList();
-            employeeList.AddEmployee("Sample", "Employee", 00);
-            employeeList.AddEmployee("Joe", "Dirt", 01);
-            employeeList.AddEmployee("John", "Doe", 02);
-            employeeList.AddEmployee("Billy", "Madison", 03);
-            employeeList.AddEmployee("Ace", "Ventura", 04);
-            employeeList.AddEmployee("Joe", "Blow", 05);
-            employeeList.AddEmployee("Harry", "Krishna", 06);
-            employeeList.AddEmployee("Baba", "Ganoosh", 07);
-            employeeList.AddEmployee("Doctor", "Dre", 08);
-            employeeList.AddEmployee("Luigi", "Mario", 09);
-
-            var employeeJoeList = new EmployeeList();
-
-            foreach (List<string> employee in employeeList)
+            List<Employee> employees = new List<Employee>
             {
-                foreach (string item in employee)
+                new Employee { firstName = "Sample", lastName = "Employee", Id = 00 },
+                new Employee { firstName = "Joe", lastName = "Dirt", Id = 01 },
+                new Employee { firstName = "John", lastName = "Doe", Id = 02 },
+                new Employee { firstName = "Billy", lastName = "Madison", Id = 03 },
+                new Employee { firstName = "Ace", lastName = "Ventura", Id = 04 },
+                new Employee { firstName = "Joe", lastName = "Blow", Id = 05 },
+                new Employee { firstName = "Harry", lastName = "Krishna", Id = 06 },
+                new Employee { firstName = "Baba", lastName = "Ganoosh", Id = 07 },
+                new Employee { firstName = "Doctor", lastName = "Dre", Id = 08 },
+                new Employee { firstName = "Luigi", lastName = "Mario", Id = 09 }
+            };
+
+            List<Employee> Joeployees = new List<Employee>();
+            
+            foreach (var employee in employees)
+            {
+                if (employee.firstName == "Joe")
                 {
-                    if (item == "Joe")
-                    {
-                        employeeJoeList.AddEmployee(item);
-                    }
+                    Joeployees.Add(new Employee { firstName = employee.firstName, lastName = employee.lastName, Id = employee.Id });
                 }
             }
+            foreach (var item in Joeployees) Console.WriteLine(item.firstName + " " + item.lastName);
 
             //Employee<string> listEmployees = new Employee<string>();
 
