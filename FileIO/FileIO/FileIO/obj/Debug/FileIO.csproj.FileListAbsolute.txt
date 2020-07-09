@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\FileIO\FileIO\FileIO\bin\Debug\FileIO.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\FileIO\FileIO\FileIO\bin\Debug\FileIO.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\FileIO\FileIO\FileIO\bin\Debug\FileIO.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\FileIO\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\FileIO\FileIO\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\FileIO\FileIO\FileIO\obj\Debug\FileIO.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\FileIO\FileIO\FileIO\obj\Debug\FileIO.pdb
