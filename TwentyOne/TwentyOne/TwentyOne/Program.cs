@@ -1,43 +1,49 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
+using Casino.TwentyOne;
 
-namespace TwentyOne
+namespace Casino
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jeremy";
-            game += player;
-            game -= player;
-            Deck deck = new Deck();
-            deck.Shuffle(3);
+            const string casinoName = "Grand Hotel and Casino";
 
-            //deck = Shuffle(deck, 3);
+            Console.WriteLine("Welcome to the {0}. Let's start by telling me your name:", casinoName);
+            string playerName = Console.ReadLine();
 
-            foreach (Card card in deck.Cards)
+            Console.WriteLine("And how much money did you bring today?");
+            int bank = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Hello, {0}. Would you like to join a game of 21 right now?", playerName);
+            string answer = Console.ReadLine().ToLower();
+
+            if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
-                Console.WriteLine(card.Face + " of " + card.Suit);
+                Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid();
+                using (StreamWriter file = new StreamWriter(@"C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\log.txt", true))
+                {
+                    file.WriteLine(player.Id);
+                }
+                Game game = new TwentyOneGame();
+                game += player;
+                player.isActivelyPlaying = true;
+                while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    game.Play();
+                }
+                game -= player;
+                Console.WriteLine("Thank you for Playing!");
             }
-            Console.WriteLine(deck.Cards.Count);
-            Console.ReadLine();
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
+            Console.Read();
         }
-
-        
-
-        //public static Deck Shuffle(Deck deck, int time)
-        //{
-        //    for (int i = -; i < TimeSpan; i++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
     }
 }

@@ -1,0 +1,5 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwentyOne\TwentyOne\Casino\bin\Debug\Casino.dll
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwentyOne\TwentyOne\Casino\bin\Debug\Casino.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwentyOne\TwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwentyOne\TwentyOne\Casino\obj\Debug\Casino.dll
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\TwentyOne\TwentyOne\Casino\obj\Debug\Casino.pdb
