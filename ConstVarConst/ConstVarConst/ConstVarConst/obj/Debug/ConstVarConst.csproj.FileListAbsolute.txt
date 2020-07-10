@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ConstVarConst\ConstVarConst\ConstVarConst\bin\Debug\ConstVarConst.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ConstVarConst\ConstVarConst\ConstVarConst\bin\Debug\ConstVarConst.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ConstVarConst\ConstVarConst\ConstVarConst\bin\Debug\ConstVarConst.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ConstVarConst\ConstVarConst\ConstVarConst\obj\Debug\ConstVarConst.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ConstVarConst\ConstVarConst\ConstVarConst\obj\Debug\ConstVarConst.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ConstVarConst\ConstVarConst\ConstVarConst\obj\Debug\ConstVarConst.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ConstVarConst\ConstVarConst\ConstVarConst\obj\Debug\ConstVarConst.pdb
