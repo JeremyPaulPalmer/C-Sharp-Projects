@@ -1,0 +1,7 @@
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\bin\Debug\ExceptionHandling2.exe.config
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\bin\Debug\ExceptionHandling2.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\bin\Debug\ExceptionHandling2.pdb
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\obj\Debug\ExceptionHandling2.csprojAssemblyReference.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\obj\Debug\ExceptionHandling2.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\obj\Debug\ExceptionHandling2.exe
+C:\Users\Jeremy Palmer\Desktop\C_Sharp_Projects\ExceptionHandling2\ExceptionHandling2\ExceptionHandling2\obj\Debug\ExceptionHandling2.pdb
