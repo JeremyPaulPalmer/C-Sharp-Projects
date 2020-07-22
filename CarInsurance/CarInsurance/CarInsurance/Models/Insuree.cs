@@ -11,20 +11,33 @@ namespace CarInsurance.Models
 {
     using System;
     using System.Collections.Generic;
-    
+    using System.ComponentModel.DataAnnotations;
+
     public partial class Insuree
     {
         public int Id { get; set; }
+        [Required]
         public string FirstName { get; set; }
+        [Required]
         public string LastName { get; set; }
+        [Required]
         public string EmailAddress { get; set; }
+        [Required]
         public System.DateTime DateOfBirth { get; set; }
+        [Required]
         public int CarYear { get; set; }
+        [Required]
         public string CarMake { get; set; }
+        [Required]
         public string CarModel { get; set; }
+        [Required]
         public bool DUI { get; set; }
+        [Required]
         public int SpeedingTickets { get; set; }
+        [Required]
         public string CoverageType { get; set; }
+        [Display(Name = "CoverageTypes")]
+        public List<string> CoverageTypeList { get; set; }
         public Nullable<decimal> Quote { get; set; }
     }
 }

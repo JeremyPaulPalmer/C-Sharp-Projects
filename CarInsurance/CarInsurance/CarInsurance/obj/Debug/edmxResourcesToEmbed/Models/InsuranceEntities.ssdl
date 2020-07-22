@@ -14,7 +14,7 @@
     <Property Name="CarModel" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="DUI" Type="bit" Nullable="false" />
     <Property Name="SpeedingTickets" Type="int" Nullable="false" />
-    <Property Name="CoverageType" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CoverageType" Type="nvarchar" MaxLength="50" />
     <Property Name="Quote" Type="money" />
   </EntityType>
   <EntityContainer Name="InsuranceModelStoreContainer">

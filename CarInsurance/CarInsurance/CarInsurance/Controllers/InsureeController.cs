@@ -2,12 +2,12 @@
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
+using System.Data.Entity.Migrations;
 using System.Linq;
 using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using CarInsurance.Models;
-using CarInsurance.ViewModels;
 
 namespace CarInsurance.Controllers
 {
@@ -36,17 +36,13 @@ namespace CarInsurance.Controllers
             return View(insuree);
         }
 
-        // GET: Insuree/CalculateQuote
-
-        //public ActionResult CalculateQuote(DateTime DateOfBirth, int CarYear, string CarMake, string CarModel, bool DUI, int SpeedingTickets, string CoverageType)
-        //{
-            
-        //}
-
         // GET: Insuree/Create
         public ActionResult Create()
         {
-            return View();
+            string[] CoverageTypes = { "Liability Only", "Full Coverage" };
+            var model = new Insuree();
+            model.CoverageTypeList = new List<string>(CoverageTypes);
+            return View(model);
         }
 
         // POST: Insuree/Create
@@ -88,30 +84,24 @@ namespace CarInsurance.Controllers
 
             tempQuote = (insuree.SpeedingTickets * 10) + tempQuote;
 
-            if (insuree.DUI)
+            if (insuree.DUI == true)
             {
-                tempQuote = tempQuote + (tempQuote * (1 / 4));
+                tempQuote = tempQuote + (tempQuote * 0.25m);
             }
 
             if (insuree.CoverageType == "Full Coverage")
             {
-                tempQuote = tempQuote + (tempQuote * (1 / 2));
+                tempQuote = tempQuote + (tempQuote * 0.5m);
             }
-            tempQuote = insuree.Quote;
-            db.Insurees.Add(insuree);
-            db.SaveChanges();
-            return RedirectToAction("Index");
+            insuree.Quote = tempQuote;
+            if (ModelState.IsValid)
+            {
+                db.Insurees.AddOrUpdate(insuree);
+                db.SaveChanges();
+                return RedirectToAction("Index");
+            }
 
-            //return View(insuree);
-
-            //if (ModelState.IsValid)
-            //{
-            //    db.Insurees.Add(insuree);
-            //    db.SaveChanges();
-            //    return RedirectToAction("Index");
-            //}
-
-            //return View(insuree);
+            return View(insuree);
         }
 
         // GET: Insuree/Edit/5
